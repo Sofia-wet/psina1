@@ -1,0 +1,120 @@
+# Translation of Themes - Shk Corporate in Russian
+# This file is distributed under the same license as the Themes - Shk Corporate package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-08 09:09:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Shk Corporate\n"
+
+#. Description of the theme
+msgid "A Business theme which is ideal for creating a corporate or any other type of business website. SHK Corporate theme is a child theme of the Appointment WordPress theme. The theme uses the blue color variation that WordPress uses as default. You will find 3 separate header sidebars, which will be placed just above the menu section. The top header section is very useful when it comes to adding social media links, email IDs, contact information and any other important information that you want to share. All you need to do is add a few widgets and you are good to go."
+msgstr "Идеальная бизнес-тема для создания корпоративного или делового сайта. SHK Corporate — дочерняя WordPress-тема Appointment. Тема представлена в синих тонах, тонах WordPress по умолчанию. Вы найдете 3 боковых колонки заголовка, прямо над верхним разделом меню. Верхний раздел прекрасно подходит для ссылок на социальные медиа, адресов электронной почты, контактной информации и любой другой информации, которой вы хотите поделиться. Все, что требуется — добавить несколько виджетов."
+
+#. Theme Name of the theme
+msgid "Shk Corporate"
+msgstr "Shk Corporate"
+
+#: functions/customizer/customizer-copyright.php:8
+#: functions/customizer/customizer-copyright.php:14
+msgid "Footer copyright settings"
+msgstr "Настройки копирайта в подвале"
+
+#: functions/customizer/customizer-copyright.php:33
+msgid "Copyright text"
+msgstr "Текст копирайта"
+
+#: functions/customizer/customizer-copyright.php:48
+msgid "Hide copyright text"
+msgstr "Спрятать текст копирайта"
+
+#: functions/customizer/customizer-copyright.php:57
+msgid "Social Links"
+msgstr "Социальные ссылки"
+
+#: functions/customizer/customizer-copyright.php:78
+msgid "Hide footer social icons"
+msgstr "Скрыть соц.иконки в подвале"
+
+#: functions/customizer/customizer-copyright.php:97
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: functions/customizer/customizer-copyright.php:134
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: functions/customizer/customizer-copyright.php:170
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: functions/customizer/customizer-copyright.php:206
+msgid "Skype URL"
+msgstr "Skype URL"
+
+#: functions.php:73 functions.php:75
+msgid "Sidebar widget area"
+msgstr "Область виджетов в боковой колонке"
+
+#: header-widget.php:106
+msgid "Link"
+msgstr "Ссылка"
+
+#: header-widget.php:102
+msgid "Description"
+msgstr "Описание"
+
+#: header-widget.php:100
+msgid "here"
+msgstr "здесь"
+
+#: header-widget.php:99
+msgid "Find all icons"
+msgstr "Найти все иконки"
+
+#: header-widget.php:56 header-widget.php:78 header-widget.php:104
+msgid "Make a reservation: 1-800-123-4567"
+msgstr "Зарезервировать: 1-800-123-4567"
+
+#: header-widget.php:16
+msgid "WBR : Header Widget"
+msgstr "WBR: Виджет шапки"
+
+#: functions.php:104 functions.php:106
+msgid "Top header right area"
+msgstr "Правая область верхней шапки"
+
+#: functions.php:94 functions.php:96
+msgid "Top header center area"
+msgstr "Центральная область верхней шапки"
+
+#: functions.php:84 functions.php:86
+msgid "Top header left area"
+msgstr "Левая область верхней шапки"
+
+#: header-widget.php:110 functions/customizer/customizer-copyright.php:114
+#: functions/customizer/customizer-copyright.php:151
+#: functions/customizer/customizer-copyright.php:187
+#: functions/customizer/customizer-copyright.php:223
+msgid "Open link in new tab"
+msgstr "Открыть ссылку в новой вкладке"
+
+#: header-widget.php:96
+msgid "FontAwesome icon"
+msgstr "Иконка FontAwesome"
+
+#. Author of the theme
+msgid "webriti"
+msgstr "webriti"
+
+#. Author URI of the theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
+
+#. Theme URI of the theme
+msgid "https://webriti.com/shk-corporate-child-version-details-page/"
+msgstr "https://webriti.com/shk-corporate-child-version-details-page/"
